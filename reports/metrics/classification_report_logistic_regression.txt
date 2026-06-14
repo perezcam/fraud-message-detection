@@ -1,0 +1,10 @@
+Modelo: logistic_regression
+
+              precision    recall  f1-score   support
+
+  fraudulent       0.90      0.90      0.90       150
+  legitimate       0.98      0.98      0.98       965
+
+    accuracy                           0.97      1115
+   macro avg       0.94      0.94      0.94      1115
+weighted avg       0.97      0.97      0.97      1115

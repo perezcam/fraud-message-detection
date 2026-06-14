@@ -1,0 +1,10 @@
+Modelo: lightgbm
+
+              precision    recall  f1-score   support
+
+  fraudulent       0.96      0.90      0.93       150
+  legitimate       0.98      0.99      0.99       965
+
+    accuracy                           0.98      1115
+   macro avg       0.97      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115

@@ -1,0 +1,19 @@
+{
+  "model_name": "lightgbm",
+  "label_map": {
+    "fraudulent": 0,
+    "legitimate": 1
+  },
+  "int_to_label": {
+    "0": "fraudulent",
+    "1": "legitimate"
+  },
+  "train_samples": 4456,
+  "test_samples": 1115,
+  "use_manual_features": true,
+  "features_count": 10017,
+  "classes": [
+    "fraudulent",
+    "legitimate"
+  ]
+}

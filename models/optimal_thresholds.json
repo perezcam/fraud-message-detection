@@ -1,0 +1,7 @@
+{
+  "gate1_conf": 0.95,
+  "gate2_emb_fraud": 0.88,
+  "anomaly_thr": 0.75,
+  "bayes_high": 0.85,
+  "meta_fraud_thr": 0.7
+}

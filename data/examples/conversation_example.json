@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Hola, buenos días. ¿Es usted la señora García?",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:00:00"
+  },
+  {
+    "text": "Sí, soy yo. ¿Quién habla?",
+    "sender": "user",
+    "timestamp": "2024-01-15T09:00:45"
+  },
+  {
+    "text": "Soy el ejecutivo Carlos Medina del departamento de seguridad del Banco BBVA.",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:01:10"
+  },
+  {
+    "text": "Detectamos un cargo no reconocido de $4,500 pesos en su cuenta terminación 7823.",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:01:30"
+  },
+  {
+    "text": "¿Un cargo? Yo no hice ninguna compra.",
+    "sender": "user",
+    "timestamp": "2024-01-15T09:01:55"
+  },
+  {
+    "text": "Exacto, por eso la contactamos urgentemente. Para proteger su cuenta necesitamos verificar su identidad ahora mismo.",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:02:15"
+  },
+  {
+    "text": "Por favor proporcione su NIP y el código OTP que le llegará por SMS en los próximos segundos.",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:02:40"
+  },
+  {
+    "text": "Si no lo hace de inmediato su cuenta quedará suspendida y perderá acceso a todos sus fondos.",
+    "sender": "suspect",
+    "timestamp": "2024-01-15T09:03:00"
+  }
+]
